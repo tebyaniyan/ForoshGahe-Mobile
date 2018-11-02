@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <script defer type="text/javascript" src="pngfix.js"></script>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+    <link href="StyleMenu.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <div>
+        <table style="width: 780px; height: 100%;">
+            <tr>
+                <td valign="top" style="height: 187px; width: 772px;">
+                    <table cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+                        <tr>
+                            <td align="right">
+                                <img alt="فروشگاه آنلاین " src="Images/MainLogo1.jpg" style="width: 765px" /></td>
+                        </tr>
+                    </table>
+                    </td>
+            </tr>
+            <tr>
+                <td style="height: 100%; width: 772px;" valign="top">
+                    <div style="text-align: center">
+                        <table style="width: 100%; height: 100%; background-image: url(Images/tableft10.jpg);">
+                            <tr>
+                                <td valign="top">
+                                    <div id="tabs10">
+                                        <ul>
+                            <li><a href="Default.aspx"><span>صفحه اصلی</span></a> </li>
+                            <li><a href="Register.aspx"><span>عضویت</span></a> </li>
+                            
+                            <li><a href="Login.aspx"><span> ورود   </span></a> </li>
+                            
+                            <li><a href="Search.aspx" ><span>بخش جستجو</span></a> </li>
+                            <li><a href="AboutUs.aspx" id="A1"><span>درباره ما</span></a> </li>
+                             <li><a href="ContactUs.aspx"><span>تماس با ما</span></a> </li>
+                             <li><a href="admin/AdminLogin.aspx"><span>بخش مدیریت</span></a> </li>
+                                        </ul>
+                                    </div>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+            سایت فروشگاه آنلاین طراحی شده توسط
+            <br />
+            ایمان کریم زاده<br />
+        </asp:contentplaceholder>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

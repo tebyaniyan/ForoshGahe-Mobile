@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DataSet1" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dataset1.xsd.72cecc2a.cs</FileName>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dstbanner" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstbanner.xsd.72cecc2a.cs</FileName>
+      <HashCode>AAAAAAAABwAAAAJABAAAQAAAAAgCQBgAAAAAAAEARDA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstGroups" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstgroups.xsd.72cecc2a.cs</FileName>
+      <HashCode>AAAAAgAAAwAAAAJABAAAQAEAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstProducts" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstproducts.xsd.72cecc2a.cs</FileName>
+      <HashCode>QAAAAAAAAwAAAAJABAAAQAAAAAgCQBggAAAAAAEEBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstSells" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstsells.xsd.72cecc2a.cs</FileName>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAIgCQBgAAAAAAAEJBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstUsers" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstusers.xsd.72cecc2a.cs</FileName>
+      <HashCode>AAAAAAQAAwAAAAJABAAAQAIAAAoCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstbannerTableAdapters.bannerTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstbanner.xsd.72cecc2a.cs</FileName>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstGroupsTableAdapters.tGroupsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstgroups.xsd.72cecc2a.cs</FileName>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAEAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstProductsTableAdapters.tProductsTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstproducts.xsd.72cecc2a.cs</FileName>
+      <HashCode>EAQAAGAAEAgAAAMAIAAAAAAIAKEICAAAAAAEAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstSellsTableAdapters.tSellsTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstsells.xsd.72cecc2a.cs</FileName>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAAxBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DstUsersTableAdapters.tUsersTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files\onlineshop\03d635b2\f72129bf\Sources_App_Code\dstusers.xsd.72cecc2a.cs</FileName>
+      <HashCode>EAQAAGAAEgAAAAMAIAAAAAAAACEICAAAAAAEAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
